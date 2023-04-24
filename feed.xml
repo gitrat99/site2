@@ -3,12 +3,32 @@
     <title>test 2</title>
     <link href="https://aboutmee.tk/feed.xml" rel="self" />
     <link href="https://aboutmee.tk" />
-    <updated>2023-04-23T01:42:05-07:00</updated>
+    <updated>2023-04-24T10:08:21-07:00</updated>
     <author>
         <name>author2</name>
     </author>
     <id>https://aboutmee.tk</id>
 
+    <entry>
+        <title>sub1 nav1 page</title>
+        <author>
+            <name>author2</name>
+        </author>
+        <link href="https://aboutmee.tk/sub1-nav1-page.html"/>
+        <id>https://aboutmee.tk/sub1-nav1-page.html</id>
+
+        <updated>2023-04-24T10:08:21-07:00</updated>
+            <summary>
+                <![CDATA[
+                    content for page
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>content for page</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>video test</title>
         <author>
