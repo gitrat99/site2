@@ -6,34 +6,7 @@
 /* html {
     font-size: 3rem;
 } */
-
-.main {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(10rem, 20rem));
-    /* grid-template-areas:
-   "header header header header"
-   "kangol kangol kangol kangol"
-   "main main sidebar ."
-   "subfooter subfooter subfooter subfooter"
-   "footer footer footer footer"; */
-    /* grid-gap: 4vw; */
-}
-
-.mynav {
-    background-color: green;
-}
-
-
-.dropdown-menu {
-    font-size: 30px;
-}
-
-li.nav-item {
-    background-color: black;
-    /* color: red; */
-
-}
-
-.tele {
-    background-color: green;
+.sdone {
+    background-color: rgb(196, 247, 196);
+    height: 200px;
 }
